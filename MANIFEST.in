@@ -1,0 +1,3 @@
+include README.md
+include MODEL_CARD.md
+recursive-include adar_bigru/weights *.pt
